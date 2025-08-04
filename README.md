@@ -76,7 +76,7 @@
 ---
 
 ### 🕶️ Let’s Connect
-- 🔗 [LinkedIn](www.linkedin.com/in/yoseph-mekonnen-afrosec-254b472a5) 
+- 🔗 [LinkedIn]("www.linkedin.com/in/yoseph-mekonnen-afrosec-254b472a5") 
 - 🌐 [Personal Site](https://github.com/Afr0S3c) or your portfolio later!
 
 ---
