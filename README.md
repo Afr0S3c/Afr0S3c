@@ -1,6 +1,6 @@
 <h1 align="center">⚡ Yo, I'm Afr0S3c ⚡</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=F70000&center=true&vCenter=true&width=500&lines=Red+Team+Apprentice;Cybersecurity+Enthusiast;Self-Taught+Hacker;Security+engineer+and+researcher;3rd+Year+ElectroMech+Eng+@AASTU" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=F70000&center=true&vCenter=true&width=500&lines=Red+Team+Apprentice;Cybersecurity+Enthusiast;Self-Taught+Hacker;Security+engineer+and+researcher;4th+Year+ElectroMech+Eng+@AASTU" alt="Typing SVG">
 </p>
 
 ---
